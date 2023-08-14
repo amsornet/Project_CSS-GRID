@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "base.css",
+	"sources": [
+		"../sass/base.sass"
+	],
+	"sourcesContent": [
+		"$color-green-dark: #425844;\n$color-green-light: #61A568;\n\n$color-blue-dark: #61A568;\n\n$color-gray-dark: #101D2C;\n$color-gray-light: #F5F5F5;\n\n*, ::after, ::before {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box; }\n\nhtml {\n  font-size: 62.5%; }\n\nbody {\n  font-family: \"Montserrat\", sans-serif;\n  font-weight: 400;\n  color: $color-gray-light;\n  line-height: 113%;\n  font-size: 1.6rem; }\n\n.container {\n  display: grid;\n  grid-template-rows: 80vh min-content 40vw repeat(3, min-content); }\n\n\n\n\n"
+	],
+	"names": [],
+	"mappings": ";AAQA,AAAA,CAAC,EAAE,OAAO,EAAE,QAAQ,CAAC;EACnB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CAAG;;;AAE3B,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,KAAK;CAAG;;;AAErB,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,wBAAwB;EACrC,WAAW,EAAE,GAAG;EAChB,KAAK,EAbY,OAAO;EAcxB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,MAAM;CAAG;;;AAEtB,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EACb,kBAAkB,EAAE,IAAI,CAAC,WAAW,CAAC,IAAI,CAAC,sBAAsB;CAAG"
+}

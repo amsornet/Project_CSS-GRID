@@ -1,0 +1,28 @@
+/* line 9, ../HTML_Fokeev/Project_CSS-GRID/src/sass/base.sass */
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* line 14, ../HTML_Fokeev/Project_CSS-GRID/src/sass/base.sass */
+html {
+  font-size: 62.5%;
+}
+
+/* line 17, ../HTML_Fokeev/Project_CSS-GRID/src/sass/base.sass */
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: #F5F5F5;
+  line-height: 113%;
+  font-size: 1.6rem;
+}
+
+/* line 24, ../HTML_Fokeev/Project_CSS-GRID/src/sass/base.sass */
+.container {
+  display: grid;
+  grid-template-rows: 80vh min-content 40vw repeat(3, min-content);
+}
+
+/*# sourceMappingURL=base.css.map */
