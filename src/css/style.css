@@ -1,2 +1,51 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_base\.sass}line{font-family:\0000311}}
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_base\.sass}line{font-family:\0000316}}
+html {
+  font-size: 62.5%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_base\.sass}line{font-family:\0000319}}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #F5F5F5;
+  line-height: 113%;
+  font-size: 1.6rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_header\.sass}line{font-family:\000031}}
+.header {
+  background-color: #101D2C;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_features\.sass}line{font-family:\000031}}
+.features {
+  background-color: #F5F5F5;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_banner\.sass}line{font-family:\000032}}
+.banner-img {
+  background-color: #101D2C;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_banner\.sass}line{font-family:\000034}}
+.banner-text {
+  background-color: #101D2C;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_sidebar\.sass}line{font-family:\000031}}
+.sidebar {
+  background-color: #425844;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/amsor\/Documents\/stepik\%20html_css\/HTML_Fokeev\/Advansed\%20WEB_HTML\&CSS\/Project_CSS-GRID\/src\/sass\/_gallery\.sass}line{font-family:\000031}}
+.gallery {
+  background-color: #101D2C;
+}
 
 /*# sourceMappingURL=style.css.map */
